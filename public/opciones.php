@@ -82,6 +82,7 @@
             background-color: rgb(67, 80, 80);
         }
     </style>
+    <!-- edededed -->
 </head>
 <body>
     <div class="top-bar">
